@@ -1,6 +1,6 @@
 Changelog Component
 
-This project is my solution to the Changelog Component challenge on roadmap.sh.
+This project is my solution to the [Changelog Component](https://roadmap.sh/projects/changelog-component) challenge on roadmap.sh.
 
 🔗 Project Page
 https://tawuf-israk.github.io/changelog/
