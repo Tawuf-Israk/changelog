@@ -1,4 +1,4 @@
-Changelog Component
+# Changelog Component
 
 This project is my solution to the [Changelog Component](https://roadmap.sh/projects/changelog-component) challenge on roadmap.sh.
 
